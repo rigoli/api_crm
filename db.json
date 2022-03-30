@@ -1,0 +1,28 @@
+{
+  "clients": [
+    {
+      "name": "Rigo",
+      "company": "Sr. Gorila",
+      "email": "rigo.lomeli@srgorila.com",
+      "phoneNumber": "3121688906",
+      "notes": "cliente que busca un producto",
+      "id": 1
+    },
+    {
+      "name": "Juan ",
+      "company": "Sr. Gorila",
+      "email": "update@srgorila.com",
+      "phoneNumber": "3121688906",
+      "notes": "sadfsdf",
+      "id": 2
+    },
+    {
+      "name": "Bere",
+      "company": "Sr. Gorila",
+      "email": "rigo.lomeli@srgorila.com",
+      "phoneNumber": "3121688906",
+      "notes": "5 aparatos",
+      "id": 3
+    }
+  ]
+}
